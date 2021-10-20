@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vamsi045
 - 👀 I’m interested in contributing to open source
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on python,java,c and flutter projects
 - 📫 How to reach me vamsijarvis04@gmail.com
 
